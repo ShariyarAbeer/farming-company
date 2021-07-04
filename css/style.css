@@ -114,3 +114,28 @@ body{
     font-size: 3em;
 
 }
+
+.bottom-left{
+    width: 30%;
+
+}
+.bottom-left h1{
+    font-size: 3em;
+
+}
+
+
+.bottom-right{
+    width: 50%;
+    margin-left: 120px;
+    text-align: center;
+    padding: 80px 30px;
+    background-color: rgb(124, 206, 152);
+    
+
+}
+
+.slider-bottom{
+    background-color: white;
+    padding: 10px;
+}
