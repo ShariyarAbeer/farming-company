@@ -1,0 +1,52 @@
+#top-title{
+    font-family: 'Italianno', cursive;
+    font-size: 6em;
+    
+}
+
+.top-part{
+    display: flex;
+    
+
+}
+
+.top-text{
+    font-size: 3em;
+}
+
+.top-text h1{
+    font-size: 3em;
+
+}
+
+.top-helf{
+    width: 15rem;
+}
+
+.image-top img{
+    width: 50rem;
+    margin-left: 30px;
+    
+  
+}
+
+.image-top{
+      position: relative;
+  text-align: center;
+  color: rgb(250, 245, 245);
+  font-weight: 700;
+  font-size: 2em;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+
+}
+body{
+    margin: 6% auto;
+    width: 80%;
+    font-family: 'Poppins', sans-serif;
+}
