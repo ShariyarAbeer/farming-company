@@ -68,6 +68,8 @@ body{
 .top-m-text h1{
     font-size: 3em;
     text-align: right;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 .top-m-text p{
     text-align: right;
@@ -82,6 +84,7 @@ body{
     line-height: 2;
     
 }
+
 
 .middle-top h1{
     font-size: 3em;
@@ -138,4 +141,18 @@ body{
 .slider-bottom{
     background-color: white;
     padding: 10px;
+}
+.footer-top h1{
+    font-size: 3em;
+    color: peru;
+
+}
+
+.footer-top {
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 60px;
 }
