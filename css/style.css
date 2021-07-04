@@ -134,6 +134,7 @@ body{
     text-align: center;
     padding: 80px 30px;
     background-color: rgb(124, 206, 152);
+    border-radius: 5px;
     
 
 }
@@ -141,6 +142,7 @@ body{
 .slider-bottom{
     background-color: white;
     padding: 10px;
+    border-radius: 5px;
 }
 .footer-top h1{
     font-size: 3em;
